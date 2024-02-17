@@ -1,5 +1,3 @@
-pengalaman-belajar
-==
 # Pengalaman Belajar di Dicoding
 
 **17 Februari 2024**<br>
